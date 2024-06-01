@@ -1,0 +1,20 @@
+path: ./Surgical-Dataset/  # dataset root dir
+train: train.txt  # train images (relative to 'path')
+val: test.txt  # val images (relative to 'path')
+# test: test-dev2017.txt 
+
+# Classes
+names:
+  0: bisturi
+  1: pinca
+  2: tesoura curva
+  3: tesoura reta
+
+
+# stuff names
+stuff_names: [
+  # other
+  'other',
+  # unlabeled
+  'unlabeled'
+]

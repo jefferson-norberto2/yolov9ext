@@ -1,4 +1,4 @@
-path: ./Surgical-Dataset/  # dataset root dir
+path: ./surgical_tools/  # dataset root dir
 train: train.txt  # train images (relative to 'path')
 val: test.txt  # val images (relative to 'path')
 # test: test-dev2017.txt 

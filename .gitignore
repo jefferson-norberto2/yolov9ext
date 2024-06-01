@@ -1,0 +1,6 @@
+Surgical-Dataset/
+__pycache__
+runs/
+*.pt
+surgical_tools/
+*.zip
